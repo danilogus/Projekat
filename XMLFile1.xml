@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--<!DOCTYPE Adresar SYSTEM "C:\Users\Choda\Desktop\Projekat\TextFile.dtd">-->
+<Adresar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="XMLSchema1.xsd">
+  <Osoba JedinstvenaSifra="o1">
+   <PunoIme>
+    <Ime>Danilo</Ime>
+    <SrednjeIme>Goran</SrednjeIme>
+    <Prezime>Petrovic</Prezime>
+   </PunoIme>
+   <DatumRodjenja>
+     <Dan>02</Dan>
+     <Mesec>10</Mesec>
+     <Godina>1996</Godina>
+   </DatumRodjenja>
+    <Adresa type="privremena">
+      <Ulica>Palih boraca</Ulica>
+      <Broj>20</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon type="mobilni">063/177-186</Telefon>
+    <Email type="privatni">petrovicdanilovski@gmail.com</Email>
+    <Email type="sluzbeni">petarmarkovic@gmail.com</Email>
+    <Email type="privatni">petrovicdanilovskire@gmail.com</Email>
+  </Osoba>
+  <Osoba JedinstvenaSifra="o4">
+    <PunoIme>
+      <Ime>Dimitrios</Ime>
+      <SrednjeIme>Kristos</SrednjeIme>
+      <Prezime>Banos</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>17</Dan>
+      <Mesec>07</Mesec>
+      <Godina>1991</Godina>
+    </DatumRodjenja>
+    <Adresa type="privremena">
+      <Ulica>Praksagorou</Ulica>
+      <Broj>6</Broj>
+      <Grad>Atina</Grad>
+      <Drzava>Grcka</Drzava>
+    </Adresa>
+    <Telefon type="mobilni">992/491-521</Telefon>
+    <Email type="privatni">jamie@gmail.com</Email>
+    <Email type="sluzbeni">dimitriosbanos@fiveca.com</Email>
+    <Email type="privatni">jamie@outlook.com</Email>
+  </Osoba>
+  <Osoba JedinstvenaSifra="o2">
+    <PunoIme>
+      <Ime>Predrag</Ime>
+      <SrednjeIme></SrednjeIme>
+      <Prezime>Mecerovic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>29</Dan>
+      <Mesec>11</Mesec>
+      <Godina>1998</Godina>
+    </DatumRodjenja>
+    <Adresa type="stalna">
+      <Ulica>Jumbina</Ulica>
+      <Broj>289</Broj>
+      <Grad>Nis</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon type="fiksni">011/257-896</Telefon>
+    <Email type="sluzbeni">predragsecerovic@aaca.com</Email>
+  </Osoba>
+  <Osoba JedinstvenaSifra="o3">
+    <PunoIme>
+      <Ime>Ana</Ime>
+      <SrednjeIme>Goran</SrednjeIme>
+      <Prezime>Simeonovic</Prezime>
+      <Prezime>Gorazdzic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>24</Dan>
+      <Mesec>03</Mesec>
+      <Godina>2004</Godina>
+    </DatumRodjenja>
+    <Adresa>
+      <Ulica>Zlotska</Ulica>
+      <Broj>129</Broj>
+      <Grad>Bor</Grad>
+    </Adresa>
+    <Telefon type="mobilni">063/711-681</Telefon>
+    <Email type="sluzbeni">markomarkovic@gmail.com</Email>
+  </Osoba>
+  <Kompanija JedinstvenaSifra="k1">
+    <Naziv>Pekara "Marko"</Naziv>
+    <Adresa type="privremena">
+      <Ulica>Markova</Ulica>
+      <Broj>78</Broj>
+      <Grad>Novi Sad</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon type="fiksni">021/064-017</Telefon>
+    <Email type="sluzbeni">pekaramarko@sabb.com</Email>
+  </Kompanija>
+  <Kompanija JedinstvenaSifra="k2">
+    <Naziv>3CA-The Nether</Naziv>
+    <Adresa type="stalna">
+      <Ulica>Limbergstrasse</Ulica>
+      <Broj>487</Broj>
+      <Grad>Utrecht</Grad>
+      <Drzava>Holandija</Drzava>
+    </Adresa>
+    <Telefon type="mobilni">312/773-485</Telefon>
+    <Email type="sluzbeni">hradmin@gmail.com</Email>
+    <Email type="privatni">mvukicaa@gmail.com</Email>
+    <Email type="privatni">chodimirko@gmail.com</Email>
+  </Kompanija>
+  <Kompanija JedinstvenaSifra="k3">
+    <Naziv>Autolimar Vukasinovic</Naziv>
+    <Adresa>
+      <Ulica>Gospodara Vucica</Ulica>
+      <Broj>1</Broj>
+      <Grad>Beograd</Grad>
+    </Adresa>
+    <Telefon type="fiksni">011/555-817</Telefon>
+    <Email type="sluzbeni">misko@stevaa.com</Email>
+    <Email type="sluzbeni">miaassko@stevaa.com</Email>
+    <Email type="sluzbeni">miaaako@stevaa.com</Email>
+  </Kompanija>
+</Adresar>
+
