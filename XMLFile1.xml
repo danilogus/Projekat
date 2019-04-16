@@ -4,9 +4,9 @@
          xsi:noNamespaceSchemaLocation="XMLSchema1.xsd">
   <Osoba JedinstvenaSifra="o1">
    <PunoIme>
-    <Ime>Danilo</Ime>
-    <SrednjeIme>Goran</SrednjeIme>
-    <Prezime>Petrovic</Prezime>
+    <Ime>Dan</Ime>
+    <SrednjeIme>Gor</SrednjeIme>
+    <Prezime>Petrovi</Prezime>
    </PunoIme>
    <DatumRodjenja>
      <Dan>02</Dan>
