@@ -46,6 +46,28 @@
     <Email type="sluzbeni">dimitriosbanos@fiveca.com</Email>
     <Email type="privatni">jamie@outlook.com</Email>
   </Osoba>
+  <Osoba JedinstvenaSifra="o5">
+    <PunoIme>
+      <Ime>Jesse</Ime>
+      <SrednjeIme>Ken</SrednjeIme>
+      <Prezime>Evans</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>17</Dan>
+      <Mesec>07</Mesec>
+      <Godina>1999</Godina>
+    </DatumRodjenja>
+    <Adresa type="stalna">
+      <Ulica>Nebraska</Ulica>
+      <Broj>666</Broj>
+      <Grad>Twin Towers</Grad>
+      <Drzava>USA</Drzava>
+    </Adresa>
+    <Telefon type="mobilni">001/491-521</Telefon>
+    <Email type="privatni">jesseevans</Email>
+    <Email type="sluzbeni">shipmaster@fiveca.com</Email>
+    <Email type="privatni">robloxrulez@outlook.com</Email>
+  </Osoba>
   <Osoba JedinstvenaSifra="o2">
     <PunoIme>
       <Ime>Predrag</Ime>
